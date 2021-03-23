@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android User Interface</string>
+    <string name="slide_knob_view_content_description">Currently set to %d</string>
+    <string name="slide_knob_view_next_setting">Set to %d</string>
+</resources>

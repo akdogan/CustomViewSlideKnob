@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PercentageView">
+        <attr name="goal" format="integer"/>
+        <attr name="progress" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="SlideKnobView">
+        <attr name="sliderColor" format="color"/>
+        <attr name="knobColor" format="color"/>
+        <attr name="knobFocusColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="settingCount" format="integer"/>
+    </declare-styleable>
+</resources>
